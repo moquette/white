@@ -1,0 +1,26 @@
+.navbar-brand span {
+  position: relative;
+  top: -8px;
+  color: #f00;
+}
+
+h1 span {
+  position: relative;
+  top: -12px;
+  color: #f00;
+}
+
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+.drop {
+  padding: 30px;
+  border-radius: 50px;
+  background: linear-gradient(145deg, #ffffff, #e6e6e6);
+  box-shadow: 20px 20px 60px #d9d9d9, -20px -20px 60px #ffffff;
+}
