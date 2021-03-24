@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.774995da.chunk.css",
+    "main.js": "/static/js/main.e91ba9bb.chunk.js",
+    "main.js.map": "/static/js/main.e91ba9bb.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e439eec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e439eec0.js.map",
+    "static/css/2.325f41de.chunk.css": "/static/css/2.325f41de.chunk.css",
+    "static/js/2.95ced9ba.chunk.js": "/static/js/2.95ced9ba.chunk.js",
+    "static/js/2.95ced9ba.chunk.js.map": "/static/js/2.95ced9ba.chunk.js.map",
+    "static/js/3.3c52e665.chunk.js": "/static/js/3.3c52e665.chunk.js",
+    "static/js/3.3c52e665.chunk.js.map": "/static/js/3.3c52e665.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.325f41de.chunk.css.map": "/static/css/2.325f41de.chunk.css.map",
+    "static/css/main.774995da.chunk.css.map": "/static/css/main.774995da.chunk.css.map",
+    "static/js/2.95ced9ba.chunk.js.LICENSE.txt": "/static/js/2.95ced9ba.chunk.js.LICENSE.txt",
+    "static/media/styles.scss": "/static/media/bootstrap-icons.cc252f2c.woff",
+    "static/media/hero-01.da9d33c3.webp": "/static/media/hero-01.da9d33c3.webp",
+    "static/media/hero-02.041ee4a5.webp": "/static/media/hero-02.041ee4a5.webp",
+    "static/media/hero-03.18f727b1.webp": "/static/media/hero-03.18f727b1.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e439eec0.js",
+    "static/css/2.325f41de.chunk.css",
+    "static/js/2.95ced9ba.chunk.js",
+    "static/css/main.774995da.chunk.css",
+    "static/js/main.e91ba9bb.chunk.js"
+  ]
+}
