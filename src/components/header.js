@@ -5,7 +5,7 @@ export const Header = (props) => {
       <nav className="navbar navbar-expand-md navbar-light fixed-top bg-white shadow">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Dovebox Wh<span>&bull;</span>te
+            {props.data.company.name}
           </a>
           <button
             className="navbar-toggler"

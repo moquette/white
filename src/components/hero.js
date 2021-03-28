@@ -37,9 +37,9 @@ export const Hero = (props) => {
           <div className="container">
             <div className="carousel-caption text-start text-dark">
               <h1>
-                Dovebox Wh<span>&bull;</span>te
+                Wh<span>&bull;</span>te
               </h1>
-              <p>Elegance with less.</p>
+              <p>Elegance in minimalism.</p>
               <p>
                 <a className="btn btn-lg btn-dark" href="#">
                   Start
@@ -53,10 +53,10 @@ export const Hero = (props) => {
           <img width="100%" height="100%" src={hero2} alt="" />
           <div className="container">
             <div className="carousel-caption text-end text-dark mb-5">
-              <h1>Less is More</h1>
-              <p>
-                Some representative placeholder content for the second slide.
-              </p>
+              <h1>
+                Achive more w<span>&bull;</span>th less
+              </h1>
+              <p>The importance of minimalism to UX.</p>
               <p className="mb-5">
                 <a className="btn btn-lg btn-dark" href="#">
                   Learn more
@@ -69,7 +69,9 @@ export const Hero = (props) => {
           <img width="100%" height="100%" src={hero3} alt="" />
           <div className="container">
             <div className="carousel-caption text-dark">
-              <h1>Another Headline.</h1>
+              <h1>
+                Make an <span>&bull;</span>mpact
+              </h1>
               <p>
                 Some representative placeholder content for the third slide.
               </p>

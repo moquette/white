@@ -2,7 +2,7 @@
   "name": "white",
   "version": "1.0.0",
   "private": false,
-  "homepage": "https://white.dovebox.org",
+  "homepage": "https://white.moquette.us",
   "license": "MIT",
   "dependencies": {
     "@craco/craco": "^6.1.1",

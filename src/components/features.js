@@ -4,7 +4,7 @@ export const Features = (props) => {
     <>
       <section className="container">
         <div className="row featurette">
-          <div className="col-md-7 pr-5">
+          <div className="col-md-8">
             <h2 className="featurette-heading">
               First featurette heading.{" "}
               <span className="text-muted">It’ll blow your mind.</span>
@@ -14,7 +14,7 @@ export const Features = (props) => {
               Imagine some exciting prose here.
             </p>
           </div>
-          <div className="col-md-5">
+          <div className="col-md-4 text-center p-4">
             <svg
               className="bd-placeholder-img bd-placeholder-img-lg neu-shadow featurette-image img-fluid mx-auto"
               width="500"
@@ -36,18 +36,17 @@ export const Features = (props) => {
       </section>
       <section className="container">
         <div className="row featurette">
-          <div className="col-md-7 order-md-2 pl-5">
+          <div className="col-md-8 order-md-2">
             <h2 className="featurette-heading">
               Oh yeah, it’s that good.{" "}
               <span className="text-muted">See for yourself.</span>
             </h2>
             <p className="lead">
-              Another featurette? Of course. More placeholder content here to
-              give you an idea of how this layout would work with some actual
-              real-world content in place.
+              Some great placeholder content for the first featurette here.
+              Imagine some exciting prose here.
             </p>
           </div>
-          <div className="col-md-5 order-md-1">
+          <div className="col-md-4 order-md-1 text-center p-4">
             <svg
               className="bd-placeholder-img bd-placeholder-img-lg neu-shadow featurette-image img-fluid mx-auto"
               width="500"
@@ -69,7 +68,7 @@ export const Features = (props) => {
       </section>
       <section className="container">
         <div className="row featurette">
-          <div className="col-md-7 pr-5">
+          <div className="col-md-8">
             <h2 className="featurette-heading">
               And lastly, this one.{" "}
               <span className="text-muted">Checkmate.</span>
@@ -81,7 +80,7 @@ export const Features = (props) => {
               some your content.
             </p>
           </div>
-          <div className="col-md-5">
+          <div className="col-md-4 text-center p-4">
             <svg
               className="bd-placeholder-img bd-placeholder-img-lg neu-shadow featurette-image img-fluid mx-auto"
               width="500"
